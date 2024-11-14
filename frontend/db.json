@@ -1,0 +1,74 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": "54aa",
+      "content": "Satya Patel Rulz",
+      "important": false
+    },
+    {
+      "id": "9fb2",
+      "content": "New York I Love You",
+      "important": false
+    },
+    {
+      "id": "3af7",
+      "content": "Fold Laundry",
+      "important": true
+    },
+    {
+      "id": "b723",
+      "content": "hello",
+      "important": false
+    },
+    {
+      "id": "66d6",
+      "content": "Jelly roll",
+      "important": true
+    },
+    {
+      "id": "daf0",
+      "content": "Eat lunch",
+      "important": true
+    },
+    {
+      "id": "1d17",
+      "content": "Rolling in the deep",
+      "important": true
+    },
+    {
+      "id": "9e8e",
+      "content": "satya patel",
+      "important": false
+    },
+    {
+      "id": "0903",
+      "content": "Bye bye bye",
+      "important": true
+    },
+    {
+      "id": "5fc6",
+      "content": "hey hye",
+      "important": true
+    },
+    {
+      "id": "9524",
+      "content": "hey hye",
+      "important": true
+    }
+  ]
+}
