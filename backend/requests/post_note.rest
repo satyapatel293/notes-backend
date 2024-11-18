@@ -2,7 +2,7 @@ POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-  "content": "sample",
+  "content": "lol",
   "important": true
 }
 
@@ -13,3 +13,16 @@ GET http://localhost:3001/api/notes/
 
 ###
 GET http://localhost:3001/api/things
+
+
+### 
+DELETE http://localhost:3001/api/notes/
+
+###
+PUT http://localhost:3001/api/notes/67377d8cabca8cec4b029fc7
+Content-Type: application/json
+
+{
+  "content": "New New",
+  "important": true
+}
